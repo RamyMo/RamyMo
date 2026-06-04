@@ -40,8 +40,6 @@ My work is backed by a **Ph.D. in Computer Engineering**, expertise in **AI, opt
 | **Fast Resource Allocation** | Lightweight heuristics for low-latency admission &amp; placement |
 | **Biomedical &amp; Photonics** | Remote photoplethysmography, ITS, and optical communications |
 
-> 📄 Selected publication: [*Optimizing Resource Fragmentation in VNF Placement*, **IEEE TMLCN 2024**](https://doi.org/10.1109/TMLCN.2024.3469131)
-
 ---
 
 ### 🛠️ Tech &amp; Tools
