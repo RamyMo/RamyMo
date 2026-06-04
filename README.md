@@ -42,21 +42,6 @@ My work is backed by a **Ph.D. in Computer Engineering**, expertise in **AI, opt
 
 ---
 
-### 🛠️ Tech &amp; Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Python-1e40af?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-1e40af?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/TensorFlow-1e40af?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/scikit--learn-1e40af?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Docker-1e40af?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-1e40af?style=flat-square&logo=linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/Git-1e40af?style=flat-square&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/MATLAB-1e40af?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
-</p>
-
----
-
 <p align="center">
   <i>🌐 Read my research, blog, and courses at <a href="https://ramymohamed.io">ramymohamed.io</a></i>
 </p>
