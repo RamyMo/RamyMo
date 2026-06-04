@@ -12,21 +12,10 @@
 
 ---
 
-### Build
-
-Practical AI, automation, and cloud-native applications.
-
-### Teach
-
-AI, cloud development, and serverless systems.
-
-### Research
-
-Optimization and deep reinforcement learning for 5G/6G resource provisioning.
-
-### Background
-
-Ph.D. in Computer Engineering from Carleton University.
+**Build:** Practical AI, automation, and cloud-native applications.  
+**Teach:** AI, cloud development, and serverless systems.  
+**Research:** Optimization and deep reinforcement learning for 5G/6G resource provisioning.  
+**Background:** Ph.D. in Computer Engineering from Carleton University.
 
 ---
 
