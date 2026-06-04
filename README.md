@@ -1,8 +1,4 @@
-<h1 align="center">Hi, I'm Ramy Mohamed</h1>
-
-<p align="center">
-  <strong>AI &amp; Data Scientist | Ph.D. | Professor</strong>
-</p>
+<h1 align="center">Hi, I'm Ramy</h1>
 
 <p align="center">
   I build and teach AI and cloud-native systems.
