@@ -18,24 +18,14 @@
 
 ---
 
-### About
+### Profile Snapshot
 
-I'm an AI and Data Scientist based in Ontario, Canada, with a Ph.D. in Computer Engineering from Carleton University. I build practical AI, automation, and cloud-native systems, and I teach students how to do the same.
-
-Teaching is a big part of my work: helping students move from "this is confusing" to "I can build this" in AI, cloud development, real-time data, serverless systems, and DevOps security.
-
-### Research
-
-My research uses optimization and deep reinforcement learning to improve resource provisioning in 5G/6G networks, especially VNF placement, SFC planning, and fragmentation-aware allocation.
-
-Earlier work includes biomedical signal processing, photonics, intelligent transportation, and real-time heart-rate monitoring.
-
-### What I Work On
-
-- Practical AI, automation, and applied data science
-- Cloud-native apps, Kubernetes, and serverless systems
-- Real-time data pipelines and DevOps workflows
-- Network optimization with deep reinforcement learning
+| Area | Details |
+| --- | --- |
+| About | AI and Data Scientist in Ontario, Canada, with a Ph.D. in Computer Engineering from Carleton University. |
+| Teaching | Hands-on AI, cloud development, real-time data, serverless systems, and DevOps security. |
+| Research | Optimization and deep reinforcement learning for 5G/6G resource provisioning. |
+| What I Work On | Practical AI, automation, Kubernetes/serverless apps, data pipelines, and network optimization workflows. |
 
 ---
 
