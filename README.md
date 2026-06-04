@@ -1,4 +1,4 @@
-<table>
+<table align="center">
   <tr>
     <td width="260" align="center">
       <img src="assets/profile-avatar.png" width="220" alt="Ramy Mohamed profile photo">
