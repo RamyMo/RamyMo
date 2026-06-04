@@ -18,27 +18,27 @@
 
 ---
 
-<h3 align="center">What I Bring Together</h3>
-
-<p align="center">
-  Practical systems, academic research, and hands-on teaching for people building with AI and cloud platforms.
-</p>
-
-<p align="center">
-  <code>Practical AI</code>
-  <code>Automation</code>
-  <code>Cloud-native apps</code>
-  <code>Real-time data</code>
-  <code>DevOps workflows</code>
-  <code>Network optimization</code>
-</p>
-
-### Snapshot
-
-**Profile:** AI and Data Scientist.  
-**Education:** Ph.D. in Computer Engineering from Carleton University.  
-**Research:** Optimization and deep reinforcement learning for 5G/6G networks.  
-**Teaching:** AI, cloud, serverless, data, and DevOps security.
+```yaml
+profile:
+  role: AI and Data Scientist
+  education: Ph.D. in Computer Engineering, Carleton University
+  teaching:
+    - AI
+    - cloud development
+    - serverless systems
+    - data workflows
+    - DevOps security
+  research:
+    - optimization
+    - deep reinforcement learning
+    - 5G/6G resource provisioning
+  building:
+    - practical AI
+    - automation
+    - cloud-native apps
+    - real-time data pipelines
+    - network optimization workflows
+```
 
 ---
 
