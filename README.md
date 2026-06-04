@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/profile-avatar.svg" width="280" alt="Ramy Mohamed profile photo">
+  <img src="assets/profile-avatar.png" width="280" alt="Ramy Mohamed profile photo">
 
   <h1>Hi, I'm Ramy Mohamed</h1>
 
