@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
-    <td width="260" align="center">
-      <img src="assets/profile-avatar.png" width="220" alt="Ramy Mohamed profile photo">
+    <td width="180" align="center">
+      <img src="assets/profile-avatar.png" width="160" alt="Ramy Mohamed profile photo">
     </td>
     <td>
       <h1>Hi, I'm Ramy Mohamed</h1>
@@ -18,14 +18,31 @@
 
 ---
 
-### Profile Snapshot
-
-| Area | Details |
-| --- | --- |
-| About | AI and Data Scientist in Ontario, Canada, with a Ph.D. in Computer Engineering from Carleton University. |
-| Teaching | Hands-on AI, cloud development, real-time data, serverless systems, and DevOps security. |
-| Research | Optimization and deep reinforcement learning for 5G/6G resource provisioning. |
-| What I Work On | Practical AI, automation, Kubernetes/serverless apps, data pipelines, and network optimization workflows. |
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <h3>What I Bring Together</h3>
+      <p>Practical systems, academic research, and hands-on teaching for people building with AI and cloud platforms.</p>
+      <p>
+        <code>Practical AI</code>
+        <code>Automation</code>
+        <code>Cloud-native apps</code>
+        <code>Real-time data</code>
+        <code>DevOps workflows</code>
+        <code>Network optimization</code>
+      </p>
+    </td>
+    <td width="42%" valign="top">
+      <h3>Snapshot</h3>
+      <ul>
+        <li>AI and Data Scientist.</li>
+        <li>Ph.D. in Computer Engineering from Carleton University.</li>
+        <li>Research in optimization and deep reinforcement learning for 5G/6G networks.</li>
+        <li>Teaching across AI, cloud, serverless, data, and DevOps security.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
