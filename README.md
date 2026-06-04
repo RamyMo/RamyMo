@@ -20,18 +20,9 @@
 profile:
   role: AI and Data Scientist
   education: Ph.D. in Computer Engineering, Carleton University
-  teaching:
-    - AI
-    - cloud development
-    - serverless systems
-  research:
-    - optimization
-    - deep reinforcement learning
-    - 5G/6G resource provisioning
-  building:
-    - practical AI
-    - automation
-    - cloud-native apps
+  teach: AI, cloud development, serverless systems
+  research: optimization, deep reinforcement learning, 5G/6G
+  build: practical AI, automation, cloud-native apps
 ```
 
 ---
