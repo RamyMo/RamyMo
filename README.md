@@ -30,18 +30,6 @@ My work is backed by a **Ph.D. in Computer Engineering**, expertise in **AI, opt
 
 ---
 
-### 🧠 Research Focus
-
-| Area | Description |
-| --- | --- |
-| **Deep RL for VNF Placement** | Online/offline placement with reward-constrained policy optimization |
-| **Fragmentation-Aware Provisioning** | Minimizing substrate fragmentation for better acceptance ratios &amp; latency |
-| **SFC Planning** | Network planning with automatic infeasibility restoration (5G cloud gaming) |
-| **Fast Resource Allocation** | Lightweight heuristics for low-latency admission &amp; placement |
-| **Biomedical &amp; Photonics** | Remote photoplethysmography, ITS, and optical communications |
-
----
-
 <p align="center">
   <i>🌐 Read my research, blog, and courses at <a href="https://ramymohamed.io">ramymohamed.io</a></i>
 </p>
