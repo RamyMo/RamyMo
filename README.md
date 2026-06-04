@@ -12,14 +12,21 @@
 
 ---
 
-```yaml
-profile:
-  role: AI and Data Scientist
-  education: Ph.D. in Computer Engineering, Carleton University
-  teach: AI, cloud development, serverless systems
-  research: optimization, deep reinforcement learning, 5G/6G
-  build: practical AI, automation, cloud-native apps
-```
+### Build
+
+Practical AI, automation, and cloud-native applications.
+
+### Teach
+
+AI, cloud development, and serverless systems.
+
+### Research
+
+Optimization and deep reinforcement learning for 5G/6G resource provisioning.
+
+### Background
+
+Ph.D. in Computer Engineering from Carleton University.
 
 ---
 
