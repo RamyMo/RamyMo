@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ramymohamed.io/images/profile.webp" width="140" alt="Ramy Mohamed profile photo">
+  <img src="assets/profile-avatar.svg" width="160" alt="Ramy Mohamed profile photo">
 
   <h1>Hi, I'm Ramy Mohamed</h1>
 
