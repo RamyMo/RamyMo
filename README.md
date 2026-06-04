@@ -8,7 +8,6 @@
   <a href="https://ramymohamed.io"><img src="https://img.shields.io/badge/Website-RamyMohamed.io-1e40af?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/ramymfouad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1e40af?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=aNjJz9cAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-1e40af?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  <a href="https://www.researchgate.net/profile/Ramy-Mohamed-10"><img src="https://img.shields.io/badge/ResearchGate-Profile-1e40af?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
 </p>
 
 ---
