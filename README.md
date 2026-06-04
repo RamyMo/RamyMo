@@ -1,22 +1,20 @@
-<div align="center">
-  <img src="assets/profile-avatar.png" width="280" alt="Ramy Mohamed profile photo">
-
-  <h1>Hi, I'm Ramy Mohamed</h1>
-
-  <p>
-    <strong>AI &amp; Data Scientist | Ph.D. | Professor</strong>
-  </p>
-
-  <p>
-    I build and teach AI and cloud-native systems that turn complex problems into practical solutions.
-  </p>
-
-  <p>
-    <a href="https://ramymohamed.io"><img src="https://img.shields.io/badge/Website-RamyMohamed.io-1e40af?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-    <a href="https://www.linkedin.com/in/ramymfouad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1e40af?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://scholar.google.com/citations?hl=en&user=aNjJz9cAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-1e40af?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="260" align="center">
+      <img src="assets/profile-avatar.png" width="220" alt="Ramy Mohamed profile photo">
+    </td>
+    <td>
+      <h1>Hi, I'm Ramy Mohamed</h1>
+      <p><strong>AI &amp; Data Scientist | Ph.D. | Professor</strong></p>
+      <p>I build and teach AI and cloud-native systems that turn complex problems into practical solutions.</p>
+      <p>
+        <a href="https://ramymohamed.io"><img src="https://img.shields.io/badge/Website-RamyMohamed.io-1e40af?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+        <a href="https://www.linkedin.com/in/ramymfouad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1e40af?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+        <a href="https://scholar.google.com/citations?hl=en&user=aNjJz9cAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-1e40af?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
