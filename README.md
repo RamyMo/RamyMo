@@ -6,7 +6,7 @@
     <td>
       <h1>Hi, I'm Ramy Mohamed</h1>
       <p><strong>AI &amp; Data Scientist | Ph.D. | Professor</strong></p>
-      <p>I build and teach AI and cloud-native systems that turn complex problems into practical solutions.</p>
+      <p>I build and teach AI and cloud-native systems.</p>
       <p>
         <a href="https://ramymohamed.io">Website</a> |
         <a href="https://www.linkedin.com/in/ramymfouad/">LinkedIn</a> |
