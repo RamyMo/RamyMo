@@ -59,15 +59,6 @@ My work is backed by a **Ph.D. in Computer Engineering**, expertise in **AI, opt
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RamyMo&show_icons=true&hide_border=true&theme=default&title_color=1e40af&icon_color=1e40af&text_color=1f2328&bg_color=ffffff&include_all_commits=true&count_private=true" alt="Ramy's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyMo&layout=compact&hide_border=true&theme=default&title_color=1e40af&text_color=1f2328&bg_color=ffffff" alt="Top languages">
-</p>
-
----
-
 <p align="center">
   <i>🌐 Read my research, blog, and courses at <a href="https://ramymohamed.io">ramymohamed.io</a></i>
 </p>
