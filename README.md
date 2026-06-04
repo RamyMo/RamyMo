@@ -1,20 +1,18 @@
-<table align="center">
-  <tr>
-    <td width="220" align="center">
-      <img src="assets/profile-avatar.png" width="200" alt="Ramy Mohamed profile photo">
-    </td>
-    <td>
-      <h1>Hi, I'm Ramy Mohamed</h1>
-      <p><strong>AI &amp; Data Scientist | Ph.D. | Professor</strong></p>
-      <p>I build and teach AI and cloud-native systems.</p>
-      <p>
-        <a href="https://ramymohamed.io">Website</a> |
-        <a href="https://www.linkedin.com/in/ramymfouad/">LinkedIn</a> |
-        <a href="https://scholar.google.com/citations?hl=en&user=aNjJz9cAAAAJ&view_op=list_works&authuser=1&sortby=pubdate">Google Scholar</a>
-      </p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Hi, I'm Ramy Mohamed</h1>
+
+<p align="center">
+  <strong>AI &amp; Data Scientist | Ph.D. | Professor</strong>
+</p>
+
+<p align="center">
+  I build and teach AI and cloud-native systems.
+</p>
+
+<p align="center">
+  <a href="https://ramymohamed.io">Website</a> |
+  <a href="https://www.linkedin.com/in/ramymfouad/">LinkedIn</a> |
+  <a href="https://scholar.google.com/citations?hl=en&user=aNjJz9cAAAAJ&view_op=list_works&authuser=1&sortby=pubdate">Google Scholar</a>
+</p>
 
 ---
 
