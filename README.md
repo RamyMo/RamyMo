@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
-    <td width="180" align="center">
-      <img src="assets/profile-avatar.png" width="160" alt="Ramy Mohamed profile photo">
+    <td width="220" align="center">
+      <img src="assets/profile-avatar.png" width="200" alt="Ramy Mohamed profile photo">
     </td>
     <td>
       <h1>Hi, I'm Ramy Mohamed</h1>
@@ -26,8 +26,6 @@ profile:
     - AI
     - cloud development
     - serverless systems
-    - data workflows
-    - DevOps security
   research:
     - optimization
     - deep reinforcement learning
@@ -36,8 +34,6 @@ profile:
     - practical AI
     - automation
     - cloud-native apps
-    - real-time data pipelines
-    - network optimization workflows
 ```
 
 ---
